@@ -1,0 +1,13 @@
+[project]
+name = "qalam-scraper"
+version = "0.1.0"
+description = "NUST Qalam Results Scraper"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "python-dotenv>=1.2.1",
+    "selenium>=4.39.0",
+]
+
+[project.scripts]
+qalam-scraper = "qalam_scraper:main"

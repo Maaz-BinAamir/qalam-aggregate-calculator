@@ -1,0 +1,1 @@
+A vibecoded project to get qalam obtained aggregate and average aggregate of each subject
