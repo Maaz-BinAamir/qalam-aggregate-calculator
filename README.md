@@ -23,7 +23,7 @@ A Vibe Coded Python scraper that extracts student results from the NUST Qalam po
 1. Clone the repository:
    ```bash
    git clone <repo-url>
-   cd qalam_scraper
+   cd qalam-aggregate-calculator
    ```
 
 2. Install dependencies using uv:
